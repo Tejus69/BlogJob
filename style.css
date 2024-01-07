@@ -208,4 +208,9 @@ h2 {
     .content {
         max-width: 85vw;
     }
+     .header_heading{
+        width: 100vw;
+        color: rebeccapurple;
+        text-align: center;
+    }
 }
