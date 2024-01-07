@@ -95,7 +95,7 @@ main {
     display: grid;
     gap: 1.5rem;
     /* grid-template-columns: repeat(1,1fr); */
-    grid-template-columns: repeat(auto-fit, minmax(150px, 500px));
+    grid-template-columns: repeat(4, 1fr);
     justify-content: center;
 }
 
